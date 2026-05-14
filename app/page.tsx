@@ -6,7 +6,7 @@ export default function Home() {
       <nav className="fixed top-0 w-full backdrop-blur-md bg-black/70 z-50">
         <div className="max-w-7xl mx-auto px-6 py-4 flex justify-between items-center">
           <h1 className="text-2xl font-bold text-cyan-400">
-            Ashlo
+            ASHLOK RAJ
           </h1>
 
           <div className="flex gap-6 text-sm">
@@ -38,7 +38,7 @@ export default function Home() {
           </p>
 
           <h1 className="text-6xl md:text-7xl font-bold mb-6">
-            Hi, I'm Ashlo
+            Hi, I'm Ashlok Raj
           </h1>
 
           <p className="text-zinc-400 text-lg md:text-xl leading-8 mb-8">
